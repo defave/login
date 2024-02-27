@@ -95,9 +95,9 @@ header nav .slide{
     display: block;
 }
 
-#register:checked ~ section .content-register{
+ #register:checked ~ section .content-register{
     display: block;
-}
+} 
 #reset:checked ~ section .content-reset{
     display: block;
 }
